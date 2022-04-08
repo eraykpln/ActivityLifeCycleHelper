@@ -1,2 +1,3 @@
 # ActivityLifeCycleHelper
 To understand better Activity Life Cycyle Statements, please follow the functions onPause(), onStop(), onCreate(), onStart... 
+https://docs.google.com/document/d/1JlGCwj0T-n3v54FHJbqMupL2ukCvZl3YVQHtXpGkP3c/edit?usp=sharing
